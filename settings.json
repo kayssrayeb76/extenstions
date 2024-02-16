@@ -1,0 +1,184 @@
+{
+	"python.analysis.typeCheckingMode": "basic",
+	"files.autoSave": "afterDelay",
+	"editor.fontSize": 22,
+	"editor.wordWrap": "on",
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+	"typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"python.analysis.completeFunctionParens": true,
+	"javascript.format.semicolons": "insert",
+	"typescript.format.semicolons": "insert",
+	"html.format.templating": true,
+	"workbench.iconTheme": "vscode-icons",
+	"php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+	"tabnine.experimentalAutoImports": true,
+	"explorer.confirmDelete": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"terminal.integrated.env.windows": {},
+	"console-ninja.toolsToEnableSupportAutomaticallyFor": {
+		"live-server-extension": true,
+		"live-preview-extension": true
+	},
+	"console-ninja.outputMode": "In View",
+	"terminal.integrated.fontFamily": "Cascadia Code",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		},
+		"Windows PowerShell": {
+			"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+		},
+		"kali-linux (WSL)": {
+			"path": "C:\\Windows\\System32\\wsl.exe",
+			"args": ["-d", "kali-linux"]
+		}
+	},
+	"window.titleBarStyle": "custom",
+	"explorer.confirmDragAndDrop": false,
+	"glassit.alpha": 1,
+	"workbench.experimental.cloudChanges.partialMatches.enabled": true,
+	"search.useParentIgnoreFiles": true,
+	"javascript.inlayHints.parameterTypes.enabled": true,
+	"explorer.fileNesting.enabled": true,
+	"intelephense.completion.triggerParameterHints": true,
+	"terminal.external.linuxExec": "",
+	"terminal.integrated.allowMnemonics": true,
+	"terminal.integrated.copyOnSelection": true,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.external.windowsExec": "‪C:\\Users\\kayss\\AppData\\Local\\Programs\\Tabby\\Tabby.exe",
+	"tabby.usage.anonymousUsageTracking": true,
+	"tabby.keybindings": "tabby-style",
+	"tabby.api.endpoint": "https://playground.app.tabbyml.com",
+	"python.analysis.autoImportCompletions": true,
+	"editor.fontFamily": "Consalos",
+	"debug.terminal.clearBeforeReusing": true,
+	"terminal.integrated.enableImages": true,
+	"terminal.integrated.enableBell": true,
+	"pyqt-integration.qtdesigner.path": "c:\\Users\\kayss\\OneDrive\\Bureau\\project\\main.py",
+	"git.autofetch": true,
+	"python.analysis.inlayHints.callArgumentNames": true,
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+	"python.formatting.provider": "none",
+	"editor.linkedEditing": true,
+	"terminal.integrated.env.linux": {},
+	"console-ninja.captureFunctions": true,
+	"Codegeex.Privacy": true,
+	"codeium.enableSearch": true,
+	"terminal.explorerKind": "external",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"vsicons.dontShowNewVersionMessage": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"git.enableSmartCommit": true,
+	"bitoAI.codeCompletion.setAutoCompletionTriggerLogic": 250,
+	"liveSassCompile.settings.includeItems": [],
+	"figma.autocompleteBlocks": true,
+	"liveServer.settings.CustomBrowser": "chrome",
+	"bitoAI.codeCompletion.enableAutoCompletion": true,
+	"bitoAI.codeCompletion.enableCommentToCode": true,
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"pieces.setCopilotLocation": true,
+	"editor.fontWeight": "normal",
+	"editor.fontLigatures": true,
+	"vscode_vibrancy.type": "under-window",
+	"vscode_vibrancy.opacity": 0.2,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"css.format.spaceAroundSelectorSeparator": true,
+	"html.format.indentInnerHtml": true,
+	"console-ninja.allowConsoleLogToTriggerPredictions": true,
+	"console-ninja.output.showLogsOnlyFromOpenedFiles": true,
+	"console-ninja.featureSet": "Community",
+	"markdown-preview-enhanced.enablePreviewZenMode": false,
+	"prettier.bracketSameLine": true,
+	"workbench.colorCustomizations": {
+		"editor.lineHighlightBackground": "#1073cf2d",
+		"editor.lineHighlightBorder": "#9fced11f"
+	},
+	"editor.guides.bracketPairs": false,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.guides.bracketPairsHorizontal": true,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.enablePreviewFromQuickOpen": true,
+	"editor.autoClosingComments": "always",
+	"prettier.requirePragma": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"notebook.formatOnSave.enabled": true,
+	"eslint.format.enable": true,
+	"html.format.indentHandlebars": true,
+	"json.format.keepLines": true,
+	"python.analysis.autoFormatStrings": true,
+	"javascript.format.insertSpaceAfterConstructor": true,
+	"typescript.format.insertSpaceAfterConstructor": true,
+	"typescript.format.insertSpaceAfterTypeAssertion": true,
+	"markdown-preview-enhanced.enableCriticMarkupSyntax": true,
+	"typescript.tsserver.enableTracing": true,
+	"javascript.referencesCodeLens.enabled": true,
+	"javascript.referencesCodeLens.showOnAllFunctions": true,
+	"debug.javascript.breakOnConditionalError": true,
+	"javascript.inlayHints.enumMemberValues.enabled": true,
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"javascript.inlayHints.parameterNames.enabled": "all",
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"javascript.inlayHints.variableTypes.enabled": true,
+	"javascript.preferences.quoteStyle": "double",
+	"javascript.preferGoToSourceDefinition": true,
+	"javascript.suggest.completeFunctionCalls": true,
+	"livePreview.debugOnExternalPreview": true,
+	"markdown-preview-enhanced.enableScriptExecution": true,
+	"js/ts.implicitProjectConfig.checkJs": true,
+	"js/ts.implicitProjectConfig.experimentalDecorators": true,
+	"code-runner.clearPreviousOutput": true,
+	"code-runner.showExecutionMessage": false,
+	"code-runner.showRunCommandInEditorContextMenu": false,
+	"workbench.editorAssociations": {
+		"*.pyc": "default"
+	},
+	"vscode_vibrancy.refreshInterval": 1,
+	"pieces.do-not-show-download-cta": true,
+	"explorer.confirmPasteNative": false,
+	"liveSassCompile.settings.autoprefix": [],
+	"liveSassCompile.settings.generateMap": true,
+	"[sass]": {
+		"editor.defaultFormatter": "syler.sass-indented"
+	},
+	"editor.inlayHints.enabled": "off",
+	"diffEditor.wordWrap": "off",
+	"editor.guides.indentation": false,
+	"files.associations": {
+		"*.html": "html"
+	},
+	"quokka.compactMessageOutput": true,
+	"quokka.automaticRestart": true,
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"workbench.colorTheme": "Tokyo Night",
+	"cSpell.userWords": ["Srayeb"]
+}
